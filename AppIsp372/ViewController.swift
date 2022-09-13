@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func buttonTapped() {
-        
+        label.text = "Hello"
     }
 
 }
